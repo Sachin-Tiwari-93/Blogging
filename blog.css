@@ -142,6 +142,7 @@ header {
   position: relative;
   top: 5rem;
   overflow: hidden;
+  margin-bottom: -15px;
   /* background-color: red; */
 }
 .header-container {
@@ -218,6 +219,9 @@ header {
 }
 .profile-details p {
   font-size: 0.5rem;
+}
+.sec-img{
+  padding:10px 0;
 }
 
 /*======================= End-Section ======================*/
